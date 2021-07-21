@@ -1,3 +1,15 @@
 div {
-    color: red
+    color: red;
+    background-color: lightblue;
+    border-style: dashed;
+    border-width: 15px;
+    border-color: pink;
+    border-radius: 30px;
+
+}
+body {
+    background-color: blue;
+}
+p{
+    text-align: center;
 }
